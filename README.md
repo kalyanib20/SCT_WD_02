@@ -1,5 +1,8 @@
 # SCT_WD_02
 🧮 Calculator Web Application
+
+-----
+
 📌 Task Summary
 A basic web calculator designed to perform standard arithmetic operations like addition, subtraction, multiplication, and division using HTML, CSS, and JavaScript. This responsive application demonstrates clean UI practices and interactive functionality through DOM manipulation and event handling.
 
