@@ -27,7 +27,7 @@ A basic web calculator designed to perform standard arithmetic operations like a
 
 🚀 How to Run This Project
 - Clone the repository
-git clone https://github.com/your-username/calculator-web-app.git
+git clone [https://github.com/your-username/calculator-web-app.git](https://github.com/kalyanib20/SCT_WD_02/blob/main/Calculator.html)
 - Navigate to the project folder
 cd calculator-web-app
 - Open the index.html file in your browser
