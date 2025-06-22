@@ -6,7 +6,8 @@ A browser-based calculator developed using HTML, CSS, and JavaScript to perform 
 -----
 
 📌 Task Summary
-A basic web calculator designed to perform standard arithmetic operations like addition, subtraction, multiplication, and division using HTML, CSS, and JavaScript. This responsive application demonstrates clean UI practices and interactive functionality through DOM manipulation and event handling.
+Build a fully functional calculator to practice DOM manipulation, event handling, and basic automatic operations.
+Implement functions to handle input parsing, event listeners, on equal button, error handling, keyboard input handling.
 
 -----
 
