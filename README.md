@@ -7,13 +7,13 @@ This project showcases essential front-end development skills, dynamic DOM handl
 
 -----
 
-📌 Task Summary
+🧮  Task Summary
 Build a fully functional calculator to practice DOM manipulation, event handling, and basic automatic operations.
 Implement functions to handle input parsing, event listeners, on equal button, error handling, keyboard input handling.
 
 -----
 
-🔧 Features
+🎯  Features
 - Simple and user-friendly interface.
 - Real-time button inputs and result display.
 - Supports clear and delete functions.
@@ -22,7 +22,7 @@ Implement functions to handle input parsing, event listeners, on equal button, e
 
 -----
 
-📘 Key Learnings
+🧠  Key Learnings
 - Practiced fundamental JavaScript concepts like functions, event listeners, and conditionals
 - Strengthened understanding of the Document Object Model (DOM)
 - Gained hands-on experience in responsive design with CSS
