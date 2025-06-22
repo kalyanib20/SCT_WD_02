@@ -3,7 +3,7 @@
 📌 Task Summary
 A basic web calculator designed to perform standard arithmetic operations like addition, subtraction, multiplication, and division using HTML, CSS, and JavaScript. This responsive application demonstrates clean UI practices and interactive functionality through DOM manipulation and event handling.
 
---
+-----
 
 ✨ Features
 - Simple and user-friendly interface.
@@ -12,7 +12,7 @@ A basic web calculator designed to perform standard arithmetic operations like a
 - Responsive layout for mobile and desktop.
 - Styled with modern CSS for a clean appearance.
 
---
+-----
 
 📚 What I Learned
 - Practiced fundamental JavaScript concepts like functions, event listeners, and conditionals
@@ -20,7 +20,7 @@ A basic web calculator designed to perform standard arithmetic operations like a
 - Gained hands-on experience in responsive design with CSS
 - Improved ability to organize code logically across HTML, CSS, and JavaScript files
 
---
+-----
 
 🚀 How to Run This Project
 - Clone the repository
