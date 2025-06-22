@@ -1,5 +1,7 @@
 # SCT_WD_02
-🧮 Calculator Web Application
+📌 Calculator Web Application — A Clean, Responsive Arithmetic Tool
+A browser-based calculator developed using HTML, CSS, and JavaScript to perform basic arithmetic operations with a modern UI. This project showcases essential front-end development skills, dynamic DOM handling, and responsive layout techniques.
+
 
 -----
 
